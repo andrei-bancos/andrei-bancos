@@ -12,7 +12,7 @@
 
 ### Hi there 👋, I'm [@andrei-bancos](https://github.com/andrei-bancos)
 
-**Welcome to me profile!** I,m a ✨ _student_ ✨, part-time programmer. I like traveling in the free time and work at my personal projects.
+**Welcome to me profile!** I'm a ✨ _student_ ✨, part-time programmer. I like traveling in the free time and work at my personal projects.
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=andrei-bancos&show_icons=true&theme=algolia&title_color=388eef">
