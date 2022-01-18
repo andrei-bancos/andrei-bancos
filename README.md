@@ -6,7 +6,7 @@
   |
   [Linkedin](https://www.linkedin.com/in/andrei-bancos-74780518a/)
   |
-  [Send me an email](mailto:contact@andreibancos.ro)
+  [Send me an email](mailto:contact@andreibancos.com)
   
 </div>
 
